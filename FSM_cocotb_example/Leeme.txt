@@ -1,0 +1,1 @@
+En esta carpeta se encuentran los archivos de un ejemplo simple para probar, mediante cocotb e iverilog, una FSM (Finite State Machine) o máquina de estados finitos codificada en verilog.
